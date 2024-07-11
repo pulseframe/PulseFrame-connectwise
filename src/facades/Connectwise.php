@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Facades;
+namespace PulseFrame\Support\Facades;
 
 use PulseFrame\Facades\Env;
 
