@@ -1,0 +1,17 @@
+{
+    "name": "pulseframe/support-connectwise",
+    "description": "connectwise support for Pulseframe!",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pulseframe\\Support\\": "src/"
+        }
+    },
+    "require": {},
+    "authors": [
+        {
+            "name": "KingMaj0r"
+        }
+    ]
+}
