@@ -8,6 +8,7 @@
             "Pulseframe\\Support\\": "src/"
         }
     },
+    "minimum-stability": "stable",
     "require": {},
     "authors": [
         {
